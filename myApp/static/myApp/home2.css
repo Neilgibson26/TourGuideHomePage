@@ -1,0 +1,335 @@
+body{
+    background-color: beige;
+}
+
+#head {
+    display: flex;
+    justify-content: space-between;
+    background-color: blueviolet;
+    width: 100%;
+    border-radius: 5px;
+}
+
+#img *{
+    height: 80px;
+    width: 120px;
+}
+
+
+#head2 *{
+    text-align: center;
+    border-radius: 15px;
+}
+
+#head2 h2 {
+    color: rgb(250, 181, 6);
+    padding-top: 20px;
+}
+
+#d1 {
+    width: 50%;
+}
+
+#head2 h1 {
+    color: rgb(194, 66, 6);
+    padding-bottom: 20px;
+}
+
+
+
+
+ul {
+    display: flex;
+    list-style-type: none;
+    padding: 8px 2px;
+    border-radius: 10px;
+}
+ul li a {
+    color: beige;
+    
+}
+ul li a:visited {
+    color: darkorange;
+}
+
+#buttons {
+    margin: 15px 20px;
+}
+
+.nav-items ul li {
+    margin: 0px 15px;
+    padding: 8px 2px;
+    border-radius: 10px;
+    color: white;
+}
+
+#landscape {
+    background-image: url('https://media.tacdn.com/media/attractions-splice-spp-674x446/07/9d/0f/2f.jpg');
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 80vh;
+    border-radius: 5px;
+    padding-top: 10px;
+}
+
+#text {
+    width: 100%;
+    display: flex;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    
+}
+
+#text * {
+    border-radius: 10px;
+    margin: 0px 20px;
+}
+
+#con1 {
+
+    width: 50%;
+    background-color: blueviolet;
+    padding: 20px;
+}
+
+
+#con1 div {
+    border: solid 3px beige;
+    padding: 10px;
+    color: white;
+    font-size: large;
+}
+
+#con2 {
+    width: 2%;
+    background-color: blueviolet;
+    margin: 0px 30px;
+}
+
+
+
+#con3 {
+    width: 45%;
+    padding: 20px 0px;
+}
+
+#con3 div {
+    background-color: blueviolet;
+    margin: 20px 0px;
+    padding: 10px;
+    color: white;
+}
+
+#split {
+    width: 100%;
+    border-radius: 15px;
+    margin: 100px 0px;
+    background-color: blueviolet;
+    display: flex;
+    height: 150px;
+}
+#split * {
+    width: 25%;
+}
+
+#split div * {
+    color: white;
+    text-align: center;
+    width: 100%;
+}
+
+#split div h1 {
+    margin-top: 20px;
+    text-align: center;
+}
+
+
+
+.meet {
+    margin: 25px 30px;
+    color: blueviolet;
+}
+
+
+
+
+
+#imgtxt {
+    display: flex;
+    margin-bottom: 100px;
+
+}
+
+#imgtxt div img {
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+
+#imgtxt div h1 {
+    padding-left: 60px;
+    color: antiquewhite
+}
+
+
+
+#imgtxt div p {
+    padding-left: 30px;
+    font-size: x-large;
+    color: antiquewhite;
+    
+}
+
+#imgtxt div {
+    width: 50%;
+    background-color: blueviolet;
+    border-radius: 10px;
+}
+
+.media {
+    width: 100%;
+    display: flex;
+}
+
+#dublin {
+    background-image: url('https://images.unsplash.com/photo-1597083887872-478e7c6ca8d4?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjh8fGR1YmxpbiUyMGNpdHl8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60');
+    margin-left: 9%;
+    margin-bottom: 70px;
+}
+#drogheda {
+    background-image: url('https://images.unsplash.com/photo-1590089415225-401ed6f9db8e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aXJlbGFuZHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60');
+
+    background-repeat: no-repeat;
+    margin-right: 10%;
+    width: 40%;
+    background-size: cover;
+    background-position: center;
+}
+
+.media div {
+    height: 200px;
+    width: 40%;
+}
+
+.video {
+    width: 50%;
+}
+
+#video {
+    height: 350px;
+    width: 100%;
+    display: flex;
+}
+
+#socials {
+    width: 100%;
+    background-color: blueviolet;
+    border-radius: 15px;
+    color: white;
+    padding: 10px 0px;
+    text-align: center;
+}
+
+#icons {
+    display: flex;
+    width: 100%;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 60px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin-left: 16%;
+  }
+  .fa:hover {
+    opacity: 0.7;
+  }
+  .fa-twitter {
+    color: rgb(28, 176, 202);
+  }
+
+  .fa-instagram {
+    color: rgb(252, 44, 78);
+  }
+  .fa-snapchat {
+    color: yellow;
+  }
+
+  #awards {
+      width: 100%;
+      margin-top: 30px;
+      display: flex;
+  }
+
+.award-logos {
+    width: 33%;
+    background-color: blueviolet;
+    border-radius: 15px;
+    margin-left: 2px;
+    text-align: center;
+    display: inline;
+    color: white;
+    padding: 30px 20px;
+}
+.award-logos div {
+    background-color: rgb(183, 114, 248);
+    height: 150px;
+    padding: 25px;
+    border-radius: 15px;
+}
+
+#explore {
+    margin-top: 30px;
+    width: 100%;
+    display: flex;
+    padding: 10px;
+}
+#explore div {
+    width: 50%;
+    text-align: center;
+}
+#explore div button {
+    border-radius: 40px;
+
+}
+
+footer {
+    margin-top: 30px;
+}
+
+
+
+#row {
+    display: flex;
+    padding: 10px;
+    background-color: blueviolet;
+    border-radius: 15px;
+}
+
+.col ul {
+    display: inline-block;
+}
+.col ul li a{
+    color: beige;
+}
+
+.col {
+    width: 33%;
+    margin: 0px 2px;
+    text-align: center;
+    padding-top: 15px;
+}
+#col1 img {
+    height: 160px;
+    width: 160px;
+    margin-top: 12px;
+}
+#col1 {
+    border: 0px;
+}
+#row h4 {
+    color: white;
+}

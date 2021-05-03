@@ -1,0 +1,315 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-26 23:59+0100\n"
+"PO-Revision-Date: 2021-04-27 00:01+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.4.2\n"
+
+#: .\myApp\templates\home.html:30 .\myApp\templates\home.html:117
+#: .\myApp\templates\home2.html:172
+msgid "Home"
+msgstr "ホーム"
+
+#: .\myApp\templates\home.html:31 .\myApp\templates\home.html:118
+#: .\myApp\templates\home2.html:30 .\myApp\templates\home2.html:174
+msgid "Our Guides"
+msgstr "ガイドの紹介"
+
+#: .\myApp\templates\home.html:32 .\myApp\templates\home.html:119
+#: .\myApp\templates\home2.html:31 .\myApp\templates\home2.html:175
+msgid "Our Story"
+msgstr "私たちの物語"
+
+#: .\myApp\templates\home.html:33 .\myApp\templates\home2.html:32
+msgid "Book a Tour"
+msgstr "ツアーを予約する"
+
+#: .\myApp\templates\home.html:34 .\myApp\templates\home2.html:33
+msgid "Book a Speaker"
+msgstr "スピーカーの予約"
+
+#: .\myApp\templates\home.html:40 .\myApp\templates\home2.html:43
+msgid "Discover Irelands towns  and cities"
+msgstr "アイルランドの町や都市を発見"
+
+#: .\myApp\templates\home.html:41 .\myApp\templates\home2.html:44
+msgid "from a unique perspective"
+msgstr "ユニークな視点から"
+
+#: .\myApp\templates\home.html:44
+msgid "Scroll For More Info Or Click"
+msgstr "スクロールすると詳細が表示されます"
+
+#: .\myApp\templates\home.html:44
+msgid "Here"
+msgstr "こちら"
+
+#: .\myApp\templates\home.html:44
+msgid "To Book Now"
+msgstr "ツアーを予約する"
+
+#: .\myApp\templates\home.html:52 .\myApp\templates\home2.html:51
+msgid "Welcome to"
+msgstr "ようこそ"
+
+#: .\myApp\templates\home.html:52 .\myApp\templates\home2.html:51
+msgid " myStreetsIreland"
+msgstr ""
+
+#: .\myApp\templates\home.html:57 .\myApp\templates\home2.html:56
+msgid ""
+"My Streets Ireland empowers people affected by homelessness to become "
+"professional walking tour guides of their towns and cities."
+msgstr ""
+"My Streets Irelandは、ホームレス状態にある人々が、自分の町や都市のプロの"
+"ウォーキングツアーガイドになることを支援しています。"
+
+#: .\myApp\templates\home.html:59
+msgid ""
+"We also provide additional training and employment opportunities through "
+"partner agencies to ensure the best possible outcome for our trainees."
+msgstr ""
+"研修生が最良の結果を得られるように、パートナー機関を通じたトレーニングや雇用"
+"機会の提供."
+
+#: .\myApp\templates\home.html:67 .\myApp\templates\home2.html:67
+msgid "1.   Unique Walking Tour"
+msgstr "1.   ユニークなウォーキングツアー"
+
+#: .\myApp\templates\home.html:68 .\myApp\templates\home2.html:68
+msgid "2.   Easy To Book Online"
+msgstr "2.   オンラインで簡単に予約できる"
+
+#: .\myApp\templates\home.html:69 .\myApp\templates\home2.html:69
+msgid "3.   Award Winning Company"
+msgstr "3.   受賞歴のある企業"
+
+#: .\myApp\templates\home.html:76
+msgid "My Streets Ireland is not a typical tour provider."
+msgstr "My Streets Ireland は、一般的なツアー会社とは異なります。"
+
+#: .\myApp\templates\home.html:76
+msgid ""
+"Our primary purpose is to allow positive change in the lives of our tour "
+"guides and trainees so that they, in turn, can inspire."
+msgstr ""
+"私たちの主な目的は、ツアーガイドや研修生の人生にポジティブな変化をもたらし、"
+"彼らが今度はインスピレーションを与えられるようにすることです。"
+
+#: .\myApp\templates\home.html:76
+msgid ""
+" Our tour guides are our biggest assets and you will see why when you come "
+"on one of our tours."
+msgstr ""
+" ツアーガイドは私たちの最大の財産であり、その理由はツアーに参加していただけれ"
+"ばわかります。"
+
+#: .\myApp\templates\home.html:77
+msgid ""
+"If you  would like some more information on our story and our mission please "
+"click the button below."
+msgstr ""
+"私たちのストーリーやミッションについてもっと知りたい方は、以下のボタンをク"
+"リックしてください。"
+
+#: .\myApp\templates\home.html:79
+msgid "Click here ~ Our Story"
+msgstr "ここをクリック～私たちの物語"
+
+#: .\myApp\templates\home.html:89
+msgid "Meet 1 of our Guides"
+msgstr "ガイドの紹介"
+
+#: .\myApp\templates\home.html:91 .\myApp\templates\home2.html:99
+msgid ""
+"Each of our trainees is supported to complete a tailored three month "
+"training programme and become a professional tour guide."
+msgstr ""
+"私たちの研修生は、それぞれに合わせた3ヶ月間のトレーニングプログラムを修了し、"
+"プロのツアーガイドになるためのサポートを受けています."
+
+#: .\myApp\templates\home.html:92 .\myApp\templates\home2.html:100
+msgid ""
+"Professional historians, writers, storytellers and tour guides provide "
+"support so that each guide has the confidence to develop and perform their "
+"own unique tour!"
+msgstr ""
+"プロの歴史家、作家、ストーリーテラー、ツアーガイドがサポートすることで、それ"
+"ぞれのガイドが自信を持って自分だけのツアーを開発し、実行することができます!"
+
+#: .\myApp\templates\home.html:99
+msgid "Some helpful links"
+msgstr "参考リンク"
+
+#: .\myApp\templates\home.html:106
+msgid "Social Media's"
+msgstr "ソーシャルメディアの"
+
+#: .\myApp\templates\home.html:108
+msgid "Instagram"
+msgstr "インスタグラム"
+
+#: .\myApp\templates\home.html:109
+msgid "Facebook"
+msgstr "フェイスブック"
+
+#: .\myApp\templates\home.html:110
+msgid "Snapchat"
+msgstr "スナップチャット"
+
+#: .\myApp\templates\home.html:111
+msgid "Twitter"
+msgstr "ツイッター"
+
+#: .\myApp\templates\home.html:115
+msgid "Rest Of Website"
+msgstr "ウェブサイトの残りの部分"
+
+#: .\myApp\templates\home.html:120
+msgid "Book A Tour"
+msgstr "ツアーを予約する"
+
+#: .\myApp\templates\home.html:121
+msgid "Book A Speaker"
+msgstr "スピーカーを予約する"
+
+#: .\myApp\templates\home2.html:58
+msgid "We also provide additional"
+msgstr "また、追加の"
+
+#: .\myApp\templates\home2.html:59
+msgid ""
+"training and employment opportunities through partner agencies to ensure the "
+"best possible outcome for our trainees"
+msgstr ""
+"研修生が最良の結果を得られるように、パートナー機関を通じたトレーニングや雇用"
+"機会の提供"
+
+#: .\myApp\templates\home2.html:75
+msgid "55"
+msgstr ""
+
+#: .\myApp\templates\home2.html:76
+msgid "Guides trained to date and counting"
+msgstr "現在までにトレーニングを受けたガイドとその数"
+
+#: .\myApp\templates\home2.html:79
+msgid "15"
+msgstr ""
+
+#: .\myApp\templates\home2.html:80
+msgid "Have progressed to further education"
+msgstr "進学した"
+
+#: .\myApp\templates\home2.html:83
+msgid "8"
+msgstr ""
+
+#: .\myApp\templates\home2.html:84
+msgid "Have progressed to better housing outcomes"
+msgstr "より良いハウジングアウトカムに進展した"
+
+#: .\myApp\templates\home2.html:87
+msgid "5"
+msgstr ""
+
+#: .\myApp\templates\home2.html:88
+msgid "Have progressed to better employment outcomes"
+msgstr "より良い雇用形態に移行した"
+
+#: .\myApp\templates\home2.html:97
+msgid "Meet our Guides"
+msgstr "ガイドの紹介"
+
+#: .\myApp\templates\home2.html:124
+msgid "Media"
+msgstr "メディア"
+
+#: .\myApp\templates\home2.html:135
+msgid "Awards"
+msgstr "アワード"
+
+#: .\myApp\templates\home2.html:141
+msgid "Social Entrepreneurs Ireland"
+msgstr "ソーシャル・アントレプレナーズ・アイルランド"
+
+#: .\myApp\templates\home2.html:142
+msgid "2018"
+msgstr ""
+
+#: .\myApp\templates\home2.html:147
+msgid "Dublin Social Enterprise Award"
+msgstr "ダブリン・ソーシャル・エンタープライズ・アワード"
+
+#: .\myApp\templates\home2.html:148 .\myApp\templates\home2.html:154
+msgid "2019"
+msgstr ""
+
+#: .\myApp\templates\home2.html:153
+msgid "Red Cross Humanitarian Award"
+msgstr "赤十字ヒューマニタリアン賞"
+
+#: .\myApp\templates\home2.html:160
+msgid "More Awards"
+msgstr "その他の賞"
+
+#: .\myApp\templates\home2.html:161
+msgid "In the Media"
+msgstr "メディア掲載情報"
+
+#: .\myApp\templates\home2.html:170
+msgid "myStreetsIreland"
+msgstr ""
+
+#: .\myApp\templates\home2.html:173
+msgid "Motivational Speaker"
+msgstr "モチベーショナル・スピーカー"
+
+#: .\myApp\templates\home2.html:179
+msgid "Some Tours"
+msgstr "一部のツアー"
+
+#: .\myApp\templates\home2.html:181
+msgid "Amit on Emmet"
+msgstr ""
+
+#: .\myApp\templates\home2.html:182
+msgid "Dezi's 1916; What Has Changed"
+msgstr "デジーの1916年、何が変わったのか"
+
+#: .\myApp\templates\home2.html:183
+msgid "Eddie's Experience Of Homelessness Tour"
+msgstr "エディのホームレス体験ツアー"
+
+#: .\myApp\templates\home2.html:184
+msgid "Paddy's Loveable Literary Rogues Tour"
+msgstr "Paddyの愛すべき文学的悪党たちのツアー"
+
+#: .\myApp\templates\home2.html:185
+msgid "Ronya's Viking Tour"
+msgstr "ローニャのバイキングツアー"
+
+#: .\myStreetsIreland\settings.py:127
+msgid "German"
+msgstr "Deutsche"
+
+#: .\myStreetsIreland\settings.py:128
+msgid "English"
+msgstr ""
+
+#: .\myStreetsIreland\settings.py:129
+msgid "Japanese"
+msgstr "日本語"

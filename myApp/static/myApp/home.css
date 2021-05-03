@@ -1,0 +1,242 @@
+
+
+#head {
+    display: flex;
+    justify-content: space-between;
+    background-color: blueviolet;
+    width: 100%;
+    border: 2px solid blue;
+
+}
+
+#head2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#head2 h4 {
+    color: rgb(250, 181, 6);
+    padding-top: 20px;
+}
+
+#d1 {
+    width: 50%;
+}
+
+#head2 h2 {
+    color: rgb(194, 66, 6);
+    padding-bottom: 20px;
+}
+
+
+#para {
+    width: 50%;
+    align-items: center;
+}
+
+#para p {
+    margin-left: 30%;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    color: blueviolet;
+    text-align: center;
+}
+
+
+ul {
+    display: flex;
+    list-style-type: none;
+    padding: 8px 2px;
+    border-radius: 10px;
+}
+
+ul li a {
+    color: white;
+}
+
+
+ul li a:visited {
+    color: darkorange;
+}
+
+#buttons {
+    margin: 15px 20px;
+}
+
+.nav-items ul li {
+    margin: 0px 15px;
+    padding: 8px 2px;
+    border-radius: 10px;
+    color: white;
+}
+
+#landscape {
+    background-image: url('https://web.archive.org/web/20201220233735im_/https://mystreetsireland.com/wp-content/uploads/elementor/thumbs/mystreets_grattanbridge-om62kw42e10znw6os0wf49a0r66w8a6m4dtmyvlbbc.jpg');
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 50vh;
+    border-radius: 5px;
+    padding-top: 10px;
+    border: 2px solid blue;
+
+}
+main div h1 {
+    text-align: center;
+    margin: 25px 30px;
+    color: blueviolet;
+}
+#text {
+    width: 100%;
+    display: flex;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    
+}
+#text * {
+    margin: 0px 20px;
+}
+
+#con1 {
+
+    width: 50%;
+    background-color: blueviolet;
+    padding: 20px;
+    border: 2px solid blue;
+
+}
+
+
+#con1 div {
+    border: solid 3px white;
+    padding: 10px;
+    color: white;
+    font-size: large;
+}
+
+#con2 {
+    width: 2%;
+    background-color: blueviolet;
+    margin: 0px 30px;
+    border: 2px solid blue;
+
+}
+
+
+
+#con3 {
+    width: 45%;
+    padding: 20px 0px;  
+
+}
+
+#con3 div {
+    background-color: blueviolet;
+    margin: 20px 0px;
+    padding: 10px;
+    color: white;
+    border: 2px solid blue;
+}
+
+#txt {
+    display: flex;
+}
+#six {
+    width: 20%;
+}
+#p {
+    width: 60%;
+    background-color: blueviolet;
+    border: 2px solid blue;
+    margin-bottom: 20px;
+    padding: 20px 20px;
+}
+
+#p p{
+    padding-left: 10%;
+    font-size: large;
+    color: white;
+}
+
+#p button {
+    margin: 10px 35%;
+}
+
+#imgtxt {
+    display: flex;
+    border: 2px solid blue;
+
+
+}
+
+#imgtxt div img {
+    width: 100%;
+    height: 100%;
+}
+
+#imgtxt div h1 {
+    padding-left: 60px;
+    color: white;
+}
+
+
+
+#imgtxt div p {
+    padding-left: 30px;
+    font-size: large;
+    color: white;
+    
+}
+
+#imgtxt div {
+    width: 50%;
+    background-color: blueviolet;
+}
+
+footer {
+    margin-top: 25px;
+}
+#ftitle {
+    width: 100%;
+    background-color: blueviolet;
+    border: 2px solid blue;
+    margin: 40px 0px;
+    padding: 20px;
+}
+
+#ftitle h1 {
+    text-align: center;
+    color: white;
+}
+#row {
+    display: flex;
+    padding: 10px;
+    border: 2px solid blue;
+    background-color: blueviolet;
+}
+
+.col ul {
+    display: inline-block;
+}
+
+.col {
+    width: 33%;
+    margin: 0px 2px;
+    text-align: center;
+    padding-top: 15px;
+}
+.col ul li a{
+    color: white;
+}
+#col1 img {
+    height: 160px;
+    width: 160px;
+    margin-top: 12px;
+}
+#col1 {
+    border: 0px;
+}
+#row h4 {
+    color: white;
+}
